@@ -4,4 +4,5 @@
 3) Tipos básicos de dados - PARTE 1
 4) Tipos básicos de dados - PARTE 2
 5) Sáida de Dados
+6) Operadores aritméticos/ atribuição
 

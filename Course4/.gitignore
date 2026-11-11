@@ -1,0 +1,8 @@
+# Arquivos e pastas do Visual Studio
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.suo
+*.user
