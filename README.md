@@ -6,4 +6,4 @@
 5) Sáida de Dados
 6) Operadores aritméticos/ atribuição
 7) Conversão implícita e casting
-
+8) Operadores aritméticos
