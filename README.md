@@ -5,4 +5,5 @@
 4) Tipos básicos de dados - PARTE 2
 5) Sáida de Dados
 6) Operadores aritméticos/ atribuição
+7) Funções de Conversão Parte 1
 
