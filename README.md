@@ -8,3 +8,4 @@
 7) Conversão implícita e casting
 8) Operadores aritméticos
 9) Entrada de dados - PARTE 1
+10) Exercício 2
