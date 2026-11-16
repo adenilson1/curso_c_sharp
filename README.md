@@ -10,5 +10,5 @@
 9) Entrada de dados - PARTE 1
 10) Exercício 2
 11) lista de Exercícios:
-a) Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma 
+a. Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma 
 mensagem explicativa, conforme exemplos.
