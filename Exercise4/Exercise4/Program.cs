@@ -9,6 +9,16 @@ namespace Exercise4 {
                 "e depois mostrar o valor da área deste círculo com quatro \r\ncasas decimais conforme exemplos." +
                 "\r\n \r\nFórmula da área: area = π . raio2 \r\n \r\nConsidere o valor de π = 3.14159 ");
 
+            Console.WriteLine();
+
+            Console.WriteLine("Entre com o valor do raio: ");
+            double raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            // Calculo da área
+            double area = Math.PI * Math.Pow(raio, 2);
+
+            Console.WriteLine();
+            Console.WriteLine("Área = " + area.ToString("F4", CultureInfo.InvariantCulture));
         }
     }
 }
