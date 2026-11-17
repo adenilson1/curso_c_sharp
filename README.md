@@ -29,4 +29,4 @@
 </ol>
 
 12) Operadores Comparativos
-
+13) Operadores Lógicos
