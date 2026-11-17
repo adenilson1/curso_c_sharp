@@ -25,6 +25,7 @@ namespace Couse9 {
             Console.WriteLine(c6);
             Console.WriteLine(c7);
             Console.WriteLine(c8);
+            Console.WriteLine("FIM");
         }
     }
 }

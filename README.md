@@ -28,4 +28,5 @@
    </li>
 </ol>
 
-12) Operadores Lógicos
+12) Operadores Comparativos
+
