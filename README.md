@@ -31,3 +31,4 @@
 12) Operadores Comparativos
 13) Operadores Lógicos
 14) Estrutura Condicional(if-else)
+15) Escopo e inicialização
