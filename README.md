@@ -55,3 +55,4 @@
 	que nele não existem políticos corruptos e os recursos arrecadados são utilizados em benefício da população, sem 
 	qualquer desvio. A moeda deste país é o Rombus, cujo símbolo é o R$.</li>
 </ol>
+17) Funções (sintaxe)
