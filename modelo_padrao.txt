@@ -1,0 +1,10 @@
+using System;
+using System.Globalization;
+
+namespace Course15 {
+    class Program {
+        static void Main(string[] args) {
+
+        }
+    }
+}
