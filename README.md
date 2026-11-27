@@ -73,3 +73,4 @@
 	que seja válido). O programa será encerrado quando o código informado for o número 4. Deve ser escrito a 
 	mensagem: "MUITO OBRIGADO" e a quantidade de clientes que abasteceram cada tipo de combustível.</li>
 </ol>
+21) Estrutura repetitiva for
