@@ -57,3 +57,4 @@
 </ol>
 17) Funções (sintaxe)
 18) Debugging
+19) Estrutura de repetição enquanto (while)
