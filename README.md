@@ -56,3 +56,4 @@
 	qualquer desvio. A moeda deste país é o Rombus, cujo símbolo é o R$.</li>
 </ol>
 17) Funções (sintaxe)
+18) Debugging
