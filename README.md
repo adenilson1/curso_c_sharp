@@ -58,3 +58,9 @@
 17) Funções (sintaxe)
 18) Debugging
 19) Estrutura de repetição enquanto (while)
+20) Lista de Exercícios:
+<ol>
+	<li>Escreva um programa que repita a leitura de uma senha até que ela seja válida. Para cada leitura de senha 
+	incorreta informada, escrever a mensagem "Senha Invalida". Quando a senha for informada corretamente deve ser 
+	impressa a mensagem "Acesso Permitido" e o algoritmo encerrado. Considere que a senha correta é o valor 2002. </li>
+</ol>
